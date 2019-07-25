@@ -1,0 +1,33 @@
+h2 {
+    display: inline-block;
+    width: 100%;
+}
+
+h3 {
+    display: inline-block;
+}
+
+p {
+    display: inline-block;
+}
+
+div {
+    width: 90%
+}
+
+.box1 h3 {
+    margin: 0 2px 1px 0;
+}
+
+.box1 p {
+    margin: 0 2em 1px 0;
+}
+
+.box2 h3 {
+    width: 100%;
+    margin: 0;
+}
+
+.box2 p {
+    margin: 0;
+}
